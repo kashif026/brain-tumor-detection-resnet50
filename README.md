@@ -53,6 +53,22 @@ Testing/
 
 ---
 
+
+## ▶️ How to Run
+
+1. Open the notebook (.ipynb file) from this repository  
+2. Click on **"Open in Colab"** or upload the notebook to Google Colab  
+3. Download the dataset from Kaggle:
+   👉 [Download Dataset](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)  
+4. Upload the dataset to your Google Drive or directly to Colab  
+5. Update the dataset path in the notebook (e.g., `/content/dataset` or your Drive path)  
+6. Run all cells step by step  
+
+⚠️ Note:
+Make sure the dataset folder structure matches the one mentioned in this README.
+
+---
+
 ## 🔄 Data Preprocessing
 - Resize images to 256 → Crop to 224  
 - Random Horizontal Flip  
